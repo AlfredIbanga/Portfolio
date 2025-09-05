@@ -9,10 +9,10 @@ Hello! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data in
 
 **- ✅ Data Cleaning anf Transformation.** 
 
-**- ✅ Data Dashborad And Visualization.**
+**- ✅ Data Dashboard And Visualization.**
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
