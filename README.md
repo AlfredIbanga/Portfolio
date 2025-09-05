@@ -7,7 +7,7 @@ Hello! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data in
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-**- ✅ Data Cleaning anf Transformation.** 
+**- ✅ Data Cleaning and Transformation.** 
 
 **- ✅ Data Dashboard And Visualization.**
 
