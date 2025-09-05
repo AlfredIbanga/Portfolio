@@ -43,30 +43,13 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto: alfredibanga377@gmail.com">alfredibanga377@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>PH, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
+      <td>(234) 810-115-6708</td>
+  href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
 
    
 
