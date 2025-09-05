@@ -1,2 +1,2 @@
 # Portfolio
-I am a data analyst.
+I am a Data Analyst.
