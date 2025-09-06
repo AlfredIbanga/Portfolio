@@ -17,11 +17,11 @@ Hello! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data in
 *A glimpse of some of the projects I've been working on.*
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/posts/alfred-ibanga-44a29b2b3_my-first-analysis-in-excel-airline-flight-activity-7361419668596625409-s7Kr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**How I created simple but clear dashboard with slicer to help Airline_Flight understand the patterns and behavours of their customers so as to make the right decisions.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](Picture11.jpg)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
