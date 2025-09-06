@@ -21,7 +21,7 @@ Hello! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data in
 
 **How I created simple but clear dashboard with slicer to help Airline_Flight understand the patterns and behavours of their customers so as to make the right decisions.**
 
-![image](Picture11.jpg)
+![image](Picture11)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
