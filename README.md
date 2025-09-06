@@ -45,8 +45,6 @@ Hi! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data into 
     <tr>
       <td>📞</td>
       <td>(234) 810-115-6708</td>
-  href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
 
    
 
