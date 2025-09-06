@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data into actionable insights. I help businesses solve challenges and unlock growth.
+Hi! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data into actionable insights. I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -19,14 +19,14 @@ Hello! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data in
 
 [Read More](https://www.linkedin.com/posts/alfred-ibanga-44a29b2b3_my-first-analysis-in-excel-airline-flight-activity-7361419668596625409-s7Kr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
 
-**How I created simple but clear dashboard with slicer to help Airline_Flight understand the patterns and behavours of their customers so as to make the right decisions.**
+**How I created a simple but clear dashboard with slicer to help Airline_Flight understand the patterns and behavours of their customers so as to make the right decisions.**
 
 ![image](Picture11.png)
 
 
 [Read More](https://www.linkedin.com/posts/alfred-ibanga-44a29b2b3_academic-stress-level-excel-dashboard-activity-7367203969846243328-4ehl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
 
-**fHow i help academics determine factors causing stress among students and how to manage it.**
+**How i help academics determine factors causing stress among students and how to manage it.**
 
 ![image](Picture3.jpg) 
 
