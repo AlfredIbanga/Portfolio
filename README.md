@@ -28,7 +28,7 @@ Hello! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data in
 
 **fHow i help academics determine factors causing stress among students and how to manage it.**
 
-![image](Picture11.jpg) 
+![image](Picture3.jpg) 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
