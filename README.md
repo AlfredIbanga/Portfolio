@@ -30,8 +30,6 @@ Hi! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data into 
 
 ![image](Picture3.jpg) 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
 
 ## CONTACT DETAILS
 
