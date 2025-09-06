@@ -23,15 +23,12 @@ Hello! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data in
 
 ![image](Picture11.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/posts/alfred-ibanga-44a29b2b3_academic-stress-level-excel-dashboard-activity-7367203969846243328-4ehl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**fHow i help academics determine factors causing stress among students and how to manage it.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+![image](Picture11.jpg) 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
