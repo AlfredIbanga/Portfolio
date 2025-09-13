@@ -1,5 +1,7 @@
-Hey!🤓 Welcome to my portfolio! 🎉
+Hey! Welcome to my portfolio! 🎉
 This is a collection of my projects showcasing my journey as a data analyst.  
+
+---
 
 
 ### 🔎 About Me
@@ -58,6 +60,8 @@ Here are the tools and skills I use to solve problems and deliver insights:
 ## 📬 Contact Info
 - 📞 **Phone:** (+234) 810-115-6708  
 - 🌐 **LinkedIn:** [Your LinkedIn Profile]( https://www.linkedin.com/in/alfred-ibanga-al377?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmH047EMxTKCPi%2BgtYq7OFQ%3D%3D)  
-- 📧 **Email:** alfredibanga377@gmail.com  
+- 📧 **Email:** alfredibanga377@gmail.com
+  
 ---
+
 ✨ *As I continue my data analytics journey, I will update this portfolio with new projects that showcase my growth and expertise.*    
