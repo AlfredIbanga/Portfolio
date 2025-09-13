@@ -1,4 +1,4 @@
-# Alfred’s Data Analytics Portfolio  
+# Alfred Ibanga Data Analyst   
 
 Welcome to my portfolio! 🎉  
 This is a collection of projects showcasing my journey and growth as a data analyst.  
@@ -7,7 +7,7 @@ This is a collection of projects showcasing my journey and growth as a data anal
 
 ## 👨‍💻 About Me
 - Aspiring **Data Analyst** passionate about solving problems with data.  
-- Skilled in **Excel, SQL, Python, and Power BI/Tableau**.  
+- Skilled in **Excel and Power BI**.  
 - Focused on turning raw data into actionable business insights.  
 
 ---
