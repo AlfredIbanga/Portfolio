@@ -1,51 +1,70 @@
-<!--Section 1: Introduce your self-->
-## ABOUT ME
+# Alfred’s Data Analytics Portfolio  
 
-Hi! I'm Alfred Ibanga 🤓, a data analyst with a passion for turning data into actionable insights. I help businesses solve challenges and unlock growth.
+Welcome to my portfolio! 🎉  
+This is a collection of projects showcasing my journey and growth as a data analyst.  
 
+---
 
-<!--Mention your top/relevant skills here - core and soft skills-->
-## SKILLS
+## 👨‍💻 About Me
+- Aspiring **Data Analyst** passionate about solving problems with data.  
+- Skilled in **Excel, SQL, Python, and Power BI/Tableau**.  
+- Focused on turning raw data into actionable business insights.  
 
-**- ✅ Data Cleaning and Transformation.** 
+---
 
-**- ✅ Data Dashboard And Visualization.**
+## 📊 Projects
 
-<!--Section 2: List 3-4 key projects-->
-## MY PROJECTS 
+### 1. Lung Cancer Symptom Analysis (Excel)
+- **Tools Used:** Excel (Pivot Tables, Charts, Conditional Formatting)  
+- **Goal:** Calculate the percentage of patients with lung cancer for each symptom.  
+- **Process:** Cleaned dataset → applied formulas → built pivot tables → created summary dashboard.  
+- **Result:** Identified high-risk symptoms most strongly associated with lung cancer.  
+- 📂 [Excel File](./Excel/Lung_Cancer_Analysis.xlsx) | 📑 [Case Study Report](./Case_Studies/Lung_Cancer_Analysis_Report.pdf)  
 
-*A glimpse of some of the projects I've been working on.*
+---
 
+### 2. Ticket Pricing Analysis (SQL + Excel)
+- **Tools Used:** SQL, Excel  
+- **Goal:** Analyze how ticket prices change as flight dates approach.  
+- **Process:** Wrote SQL queries → exported results → used Excel for further analysis & visualization.  
+- **Result:** Found a **20% price increase pattern** depending on days left and flight duration.  
+- 📂 [SQL Queries](./SQL/Ticket_Pricing_Analysis.sql) | 📑 [Report](./Case_Studies/Ticket_Pricing_Analysis.pdf)  
 
-[Read More](https://www.linkedin.com/posts/alfred-ibanga-44a29b2b3_my-first-analysis-in-excel-airline-flight-activity-7361419668596625409-s7Kr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
+---
 
-**How I created a simple but clear dashboard with slicer to help Airline_Flight understand the patterns and behavours of their customers so as to make the right decisions.**
+### 3. Sales Dashboard (Power BI)
+- **Tools Used:** Power BI  
+- **Goal:** Create an interactive dashboard for sales performance.  
+- **Process:** Imported dataset → applied data cleaning → built KPIs and slicers.  
+- **Result:** Dashboard highlights top-performing products, regions, and monthly revenue trends.  
+- 📊 [Dashboard File](./PowerBI_Tableau/Sales_Dashboard.pbix) | 🖼️ Screenshot Below:  
 
-![image](Picture11.png)
+![Sales Dashboard Preview](./images/sales_dashboard.png)
 
+---
 
-[Read More](https://www.linkedin.com/posts/alfred-ibanga-44a29b2b3_academic-stress-level-excel-dashboard-activity-7367203969846243328-4ehl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
+### 4. Teen Phone Addiction Survey (Python)
+- **Tools Used:** Python (Pandas, Matplotlib)  
+- **Goal:** Explore phone usage patterns among teenagers.  
+- **Process:** Cleaned survey data → calculated averages & correlations → built visualizations.  
+- **Result:** Found correlations between screen time, sleep disruption, and academic stress.  
+- 📂 [Notebook](./Python/Teen_Phone_Addiction.ipynb)  
 
-**How i help academics determine factors causing stress among students and how to manage it.**
+---
 
-![image](Picture3.jpg) 
+## 🛠️ Tools & Skills
+- **Excel** → Pivot Tables, Charts, Dashboards  
+- **SQL** → Joins, Aggregations, Queries for insights  
+- **Python** → Data Cleaning, Analysis, Visualization  
+- **Power BI/Tableau** → Interactive dashboards & storytelling  
 
+---
 
-## CONTACT DETAILS
+## 📬 Contact Me
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- **Email:** your.email@example.com  
+- **Portfolio Website (if any):** [yourwebsite.com](https://yourwebsite.com)  
 
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto: alfredibanga377@gmail.com">alfredibanga377@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 810-115-6708</td>
+---
 
-   
-
-
-
-
+✨ *This portfolio will be continuously updated as I work on new projects. Stay tuned!*  
