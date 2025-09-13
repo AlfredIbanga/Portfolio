@@ -20,8 +20,9 @@ Here are the tools and skills I use to solve problems and deliver insights:
 - **Power BI** → Interactive Dashboards, KPI Reporting, Storytelling  
 - **Statistics & Predictive Modeling** → Hypothesis Testing, Regression, Forecasting
 
+---
 
-- **Soft Skills** → Problem-Solving, Communication, Business Strategy
+- ***Soft Skills*** → Problem-Solving, Communication, Business Strategy
 
 
 ---
