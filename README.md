@@ -1,6 +1,4 @@
-### Alfred Ibanga   
-
-Welcome to my portfolio! 🎉
+Hey!🤓 Welcome to my portfolio! 🎉
 This is a collection of my projects showcasing my journey as a data analyst.  
 
 
@@ -30,6 +28,7 @@ Here are the tools and skills I use to solve problems and deliver insights:
 
 ## 📊 Projects
 
+
 ### 1. Lung Cancer Symptom Analysis 
 - **Tools Used:** Excel (Pivot Tables, Charts, Conditional Formatting)  
 - **Goal:** Calculate the percentage of patients with lung cancer for each symptom.  
@@ -53,9 +52,7 @@ Here are the tools and skills I use to solve problems and deliver insights:
 - **Result:** Dashboard highlights top-performing products, regions, and monthly revenue trends.  
 - 📊 [Dashboard File](./PowerBI_Tableau/Sales_Dashboard.pbix)
 
-
 ---
-
 
 
 ## 📬 Contact Info
