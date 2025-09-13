@@ -1,10 +1,10 @@
-## Alfred Ibanga   
+### Alfred Ibanga   
 
 Welcome to my portfolio! 🎉
 This is a collection of my projects showcasing my journey as a data analyst.  
 
 
-## 🔎 About Me
+### 🔎 About Me
 - Aspiring Data Analyst passionate about solving problems with data. 
 - Focused on turning raw data into actionable business insights.
 
@@ -12,7 +12,7 @@ This is a collection of my projects showcasing my journey as a data analyst.
 
 
 
-#### 🧰 Tools & Skills
+### 🧰 Tools & Skills
 Here are the tools and skills I use to solve problems and deliver insights:  
 
 
@@ -22,7 +22,7 @@ Here are the tools and skills I use to solve problems and deliver insights:
 
 ---
 
-- ***Soft Skills*** → Problem-Solving, Communication, Business Strategy
+- **Soft Skills** → Problem-Solving, Communication, Business Strategy
 
 
 ---
@@ -54,6 +54,7 @@ Here are the tools and skills I use to solve problems and deliver insights:
 - 📊 [Dashboard File](./PowerBI_Tableau/Sales_Dashboard.pbix)
 
 
+---
 
 
 
