@@ -37,8 +37,8 @@ Here are the tools and skills I use to solve problems and deliver insights:
 - **Process:** Cleaned dataset → applied formulas → built pivot tables → created summary dashboard.  
 - **Result:** Identified high-risk symptoms most strongly associated with lung cancer.
 -   
-- 📊[Dashboard File](https://www.linkedi)
-  
+- 📊[Dashboard File](https://github.com/AlfredIbanga/Portfolio/blob/main/1758061453612.jpg)
+
 - [Read More](https://www.linkedin.com/posts/alfred-ibanga-al377_how-i-turned-healthcare-data-into-actionable-activity-7370624750752198656-JJan?utm_source=share&utm_medium=member_android&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
 
 
