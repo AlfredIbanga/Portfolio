@@ -53,7 +53,7 @@ Here are the tools and skills I use to solve problems and deliver insights:
 
 
 ### 2. Sales Dashboard 
-## I support companies in identifying-high potential sales regions, evaluating top performing employees for promotion, and making inforned decisions regarding un derperforming staff.
+### I support companies in identifying-high potential sales regions, evaluating top performing employees for promotion, and making inforned decisions regarding un derperforming staff.
 
 
 - **Tools Used:** Excel  
