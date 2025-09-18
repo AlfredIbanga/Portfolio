@@ -35,7 +35,7 @@ Here are the tools and skills I use to solve problems and deliver insights:
 
 ### 1. Lung Cancer Symptom Analysis 
 
-##How I turned Healthcare Data into actionable insights 💡
+How I turned Healthcare Data into actionable insights 💡
 
 - **Tools Used:** Excel (Pivot Tables, Charts, Conditional Formatting)  
 - **Goal:** Calculate the percentage of patients with lung cancer for each symptom.  
@@ -54,7 +54,7 @@ Here are the tools and skills I use to solve problems and deliver insights:
 
 ### 2. Sales Dashboard
 
-I support companies in identifying-high potential sales regions, evaluating top performing employees for promotion, and making inforned decisions regarding un derperforming staff.
+I support companies in identifying high-potential sales regions, evaluating top performing employees for promotion, and making informed decisions regarding underperforming staff.
 
 
 - **Tools Used:** Excel  
@@ -67,7 +67,7 @@ I support companies in identifying-high potential sales regions, evaluating top 
 ---
 
 
-## 📬 Contact Info##
+## 📬 Contact Info
 - 📞 **Phone:** (+234) 810-115-6708  
 - 🌐 **LinkedIn:** [Your LinkedIn Profile]( https://www.linkedin.com/in/alfred-ibanga-al377?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmH047EMxTKCPi%2BgtYq7OFQ%3D%3D)  
 - 📧 **Email:** alfredibanga377@gmail.com
