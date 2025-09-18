@@ -1,5 +1,5 @@
 Hey! Welcome to my portfolio! 🎉
-This is a collection of my projects showcasing my journey as a Data Analyst.  
+My name is Alfred Ibanga and this is a collection of my projects showcasing my journey as a Data Analyst.  
 
 ---
 
