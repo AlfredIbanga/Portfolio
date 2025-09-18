@@ -31,7 +31,10 @@ Here are the tools and skills I use to solve problems and deliver insights:
 ## 📊 Projects
 
 
-### 1. Lung Cancer Symptom Analysis 
+### 1. Lung Cancer Symptom Analysis### 
+
+#How I turned Healthcare Data into actionable insights 💡#
+
 - **Tools Used:** Excel (Pivot Tables, Charts, Conditional Formatting)  
 - **Goal:** Calculate the percentage of patients with lung cancer for each symptom.  
 - **Process:** Cleaned dataset → applied formulas → built pivot tables → created summary dashboard.  
