@@ -52,7 +52,8 @@ Here are the tools and skills I use to solve problems and deliver insights:
 - **Goal:** Create an interactive dashboard for sales performance.  
 - **Process:** Imported dataset → applied data cleaning → built KPIs and slicers.  
 - **Result:** Dashboard highlights top-performing products, regions, and monthly revenue trends.  
-- 📊 [Dashboard File](       )
+- 📊 [Dashboard File](https://github.com/AlfredIbanga/Portfolio/blob/main/Sales%20performance%20.jpg)
+- [Excel File](Sales.xlsx)
 
 ---
 
