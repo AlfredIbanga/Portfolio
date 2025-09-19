@@ -67,6 +67,22 @@ I support companies in identifying high-potential sales regions, evaluating top 
 ---
 
 
+### 3. Academic Stress-Level 
+
+How  I was able to explored Academic Stress-Level Data to uncover the trending Student behaviors, Patterns, Factors Causing stress in the Academic. 💡
+
+
+- **Tools Used:** Excel (Pivot Tables, Charts, Conditional Formatting)  
+- **Goal:** Calculate the percentage of patients with lung cancer for each symptom.  
+- **Process:** Cleaned dataset → applied formulas → built pivot tables → created summary dashboard.  
+- **Result:** Identified high-risk symptoms most strongly associated with lung cancer.
+-   
+- 📊[Dashboard File](https://github.com/AlfredIbanga/Portfolio/blob/main/1758061453612.jpg)
+
+- [Read More](https://www.linkedin.com/posts/alfred-ibanga-al377_academic-stress-level-excel-dashboard-activity-7367203969846243328-LpXB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
+
+
+
 ## 📬 Contact Info
 - 📞 **Phone:** (+234) 810-115-6708  
 - 🌐 **LinkedIn:** [Your LinkedIn Profile]( https://www.linkedin.com/in/alfred-ibanga-al377?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmH047EMxTKCPi%2BgtYq7OFQ%3D%3D)  
