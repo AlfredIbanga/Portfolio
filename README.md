@@ -75,8 +75,7 @@ How  I was able to explored Academic Stress-Level Data to uncover the trending S
 - **Tools Used:** Excel (Pivot Tables, Charts, Conditional Formatting)  
 - **Goal:** To be able to identify and common factors causing stress among student and being able to provide a conducive environment for students during study time.  
 - **Process:** Cleaned dataset → applied formulas → built pivot tables → created summary dashboard.  
-- **Result:** Identified  the trending Student behaviors, Patterns, Factors that Causes stress in the Academic..
--   
+- **Result:** Identified  the trending Student behaviors, Patterns, Factors that Causes stress in the Academic..  
 - 📊[Dashboard File](https://github.com/AlfredIbanga/Portfolio/blob/main/Picture3.jpg)
 
 - [Read More](https://www.linkedin.com/posts/alfred-ibanga-al377_academic-stress-level-excel-dashboard-activity-7367203969846243328-LpXB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
@@ -85,13 +84,12 @@ How  I was able to explored Academic Stress-Level Data to uncover the trending S
 
 ### 4. Airline-Flight Analysis 
 
-I was able to help an Air_line understands clients and how ticket price are being affected by the number of days left
+I was able to help an Air_line understands clients behaviours and how ticket price are being affected by the number of days left
 
 - **Tools Used:** Excel (Pivot Tables, Charts, correlation method, conditional formatting)  
 - **Goal:** To be able to identify and common factors causing stress among student and being able to provide a conducive environment for students during study time.  
 - **Process:** Cleaned dataset → applied formulas → built pivot tables → created summary dashboard.  
-- **Result:** Identified  the trending Student behaviors, Patterns, Factors that Causes stress in the Academic..
--   
+- **Result:** Identified  the trending Student behaviors, Patterns, Factors that Causes stress in the Academic..   
 - 📊[Dashboard File](https://github.com/AlfredIbanga/Portfolio/blob/main/Picture11.png)
 
 
