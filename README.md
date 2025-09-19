@@ -92,9 +92,8 @@ I was able to help an Air_line understands clients and how ticket price are bein
 - **Process:** Cleaned dataset → applied formulas → built pivot tables → created summary dashboard.  
 - **Result:** Identified  the trending Student behaviors, Patterns, Factors that Causes stress in the Academic..
 -   
-- 📊[Dashboard File](https://github.com/AlfredIbanga/Portfolio/blob/main/Picture3.jpg)
+- 📊[Dashboard File](https://github.com/AlfredIbanga/Portfolio/blob/main/Picture11.png)
 
-- [Read More](https://www.linkedin.com/posts/alfred-ibanga-al377_academic-stress-level-excel-dashboard-activity-7367203969846243328-LpXB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
 
 
 
