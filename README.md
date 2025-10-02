@@ -106,7 +106,7 @@ I was able to help an Air_line understands clients behaviours and how ticket pri
 
 
 
-###📬 Contact Info
+### 📬 Contact Info
 - 📞 **Phone:** (+234) 810-115-6708  
 - 🌐 **LinkedIn:** [Your LinkedIn Profile]( https://www.linkedin.com/in/alfred-ibanga-al377?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmH047EMxTKCPi%2BgtYq7OFQ%3D%3D)  
 - 📧 **Email:** alfredibanga377@gmail.com
