@@ -100,7 +100,7 @@ I was able to help an Air_line understands clients behaviours and how ticket pri
 - **Tools Used:** Excel (formulas, PivotTables, PivotCharts, and cohort analysis, distinct count via Data Model, conditional formatting for anomalies, correlation.
 - **Goal:** To identify peak demand times, factors behind cancellations, revenue drivers, and retention challenges.
 - **Process:** Data cleaning, helper columns, Analysis Techniques (PivotTables, distinct count via Data Model), Visualization.
-- 📊[Dashboard File]()
+- 📊[Read more with Dashboards](https://www.linkedin.com/posts/alfred-ibanga-al377_i-analyzed-ncr-ride-booking-data-where-i-activity-7378796101728018433--A54?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
 
 
 
