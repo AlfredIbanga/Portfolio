@@ -92,6 +92,16 @@ I was able to help an Air_line understands clients behaviours and how ticket pri
 - **Result:** Identified  the trending Student behaviors, Patterns, Factors that Causes stress in the Academic..   
 - 📊[Dashboard File](https://github.com/AlfredIbanga/Portfolio/blob/main/Picture11.png)
 
+---
+
+### 5. NCR_Ride Booking Analysis
+ I analyzed NCR ride-booking data where I was able to uncover patterns in demand, cancellations, revenue, payment preferences, and customer retention.
+
+- **Tools Used:** Excel (formulas, PivotTables, PivotCharts, and cohort analysis, distinct count via Data Model, conditional formatting for anomalies, correlation.
+- **Goal:** To identify peak demand times, factors behind cancellations, revenue drivers, and retention challenges.
+- **Process:** Data cleaning, helper columns, Analysis Techniques (PivotTables, distinct count via Data Model), Visualization.
+- 📊[Dashboard File]()
+
 
 
 
