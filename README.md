@@ -97,15 +97,16 @@ I was able to help an Air_line understands clients behaviours and how ticket pri
 ### 5. NCR_Ride Booking Analysis
  I analyzed NCR ride-booking data where I was able to uncover patterns in demand, cancellations, revenue, payment preferences, and customer retention.
 
-- **Tools Used:** Excel (formulas, PivotTables, PivotCharts, and cohort analysis, distinct count via Data Model, conditional formatting for anomalies, correlation.
-- **Goal:** To identify peak demand times, factors behind cancellations, revenue drivers, and retention challenges.
-- **Process:** Data cleaning, helper columns, Analysis Techniques (PivotTables, distinct count via Data Model), Visualization.
+- **Tools & Skills:**
+- Excel: data cleaning, formulas (HOUR, TEXT, etc.), PivotTables, Distinct Count.
+- Analytical thinking: cohort analysis, correlation, anomaly detection
+- Visualization: PivotCharts, heat maps.
 - 📊[Read more with Dashboards](https://www.linkedin.com/posts/alfred-ibanga-al377_i-analyzed-ncr-ride-booking-data-where-i-activity-7378796101728018433--A54?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtTrboBFAI29OLxbSj3C_GuCmvhMgxsUPY)
 
 
 
 
-## 📬 Contact Info
+###📬 Contact Info
 - 📞 **Phone:** (+234) 810-115-6708  
 - 🌐 **LinkedIn:** [Your LinkedIn Profile]( https://www.linkedin.com/in/alfred-ibanga-al377?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmH047EMxTKCPi%2BgtYq7OFQ%3D%3D)  
 - 📧 **Email:** alfredibanga377@gmail.com
